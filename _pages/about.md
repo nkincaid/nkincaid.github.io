@@ -2,24 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
 profile:
   align: right
-  image: prof_pic.jpg
+  image: bw_headshot.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+  # address: >
+  #   <p>Ph.D. Student at Cornell University</p>
+  #   <p>Pepiot Research Group</p>
+  #   <p>Mechanical and Aerospace Engineering</p>
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p class="post-description"> Ph.D. Candidate at Cornell University <br>Pepiot Research Group <br> Mechanical and Aerospace Engineering </p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a Ph.D. candidate at Cornell University advised by [Professor Perrine Pepiot](https://www.mae.cornell.edu/faculty-directory/perrine-pepiot) in the Mechanical and Aersopace Engineering Department. I recently worked as a graduate intern at the [National Renewable Energy Lab (NREL)](https://www.nrel.gov/) in the [High-Performance Algorithms and Complex Fluids Group](https://www.nrel.gov/computational-science/high-performance-algorithms-complex-fluids.html).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My Ph.D. research is focused on developing reduced-order models for chemically reacting, turbulent flow simulations. Most recently, I've been developing ways to use machine learning frameworks to reduce the dimensionality of the chemical state and to robustly evolve the chemical state for predictive capabilities. I have experience coding in Python, Fortran, and C/C++, as well as using a variety of machine learning packages. When I'm not coding and doing research, I like to rock climb, fix/ride bicycles, and spend time with my dog Bonnie.
+
+I plan to graduate this coming Fall 2023 and am currently looking for full-time job opportunities post-graduation. 
+
+<div class="img">
+  <img src="/assets/img/vk-light-cropped.gif" class="img-fluid" alt="...">
+</div>
+
+<!-- <div class="img">
+  <img src="/assets/img/bw_part_flame.gif" class="img-fluid" alt="...">
+</div> -->
