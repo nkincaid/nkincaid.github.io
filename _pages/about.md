@@ -25,6 +25,7 @@ I plan to graduate this coming Fall 2023 and am currently looking for full-time 
 
 <div class="img">
   <img src="/assets/img/vk-light-cropped.gif" class="img-fluid" alt="...">
+   <figcaption class="caption"> Von Karman vortex street simulated in NGA</figcaption>
 </div>
 
 <!-- <div class="img">
