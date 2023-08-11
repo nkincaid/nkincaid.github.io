@@ -13,6 +13,7 @@ profile:
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+description: Academic portfolio website for Nicholas Kincaid
 ---
 
 <p class="post-description"> Ph.D. Candidate at Cornell University <br>Pepiot Research Group <br> Mechanical and Aerospace Engineering </p>
